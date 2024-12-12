@@ -1,0 +1,13 @@
+#Comandos Usados para projeto Calculadora Python em Shell Script Linux
+
+para alterar o arquivo calculadora.sh em executavel usei o seguinte comando:
+
+* chmod +x calculadora.sh
+
+para definir as permissões do arquivo usei o seguinte comando:
+
+* chmod 644 calculadora.sh
+
+para executaro script calculadora.sh usei o seguinte comando:
+
+* ./calculadora.sh
